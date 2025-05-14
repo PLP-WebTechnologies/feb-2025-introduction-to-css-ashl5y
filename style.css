@@ -1,0 +1,39 @@
+
+h1 {
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.intro{
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    color: #f8f4f4;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+body {
+    background-color: #a52a2a;
+    margin: 0;
+    padding: 20px;
+}
+
+.styled-image {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #378726;
+    border-radius: 10px;
+}
+
+.details {
+    background-color: #dcc540;
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: 30px auto;
+    width: 80%;
+    font-family: 'Pacifico', cursive;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
